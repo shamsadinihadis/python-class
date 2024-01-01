@@ -1,0 +1,14 @@
+x=1
+y=2
+a=3
+d=4
+r=5
+f=6
+c=7
+s=8
+e=9
+t=10
+o=11
+g=12
+average=(x+y+a+d+r+f+c+s+e+t+o+g)/12
+print(average)
